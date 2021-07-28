@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bradleybossard/ts-flora/issues"
   },
-  "homepage": "https://github.com/bradleybossard/ts-flora#readme"
+  "homepage": "https://github.com/bradleybossard/ts-flora#readme",
+  "devDependencies": {
+    "typescript": "4.3.5"
+  }
 }
