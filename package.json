@@ -2,7 +2,8 @@
   "name": "ts-flora",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "lib/index",
+  "typings": "lib/index",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
